@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+.icono {
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.svg {
+    width: 14px;
+}
